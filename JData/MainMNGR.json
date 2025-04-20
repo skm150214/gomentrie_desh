@@ -1,0 +1,11 @@
+{
+    "currentLevel": "level 1",
+    "totalJumps": 2,
+    "totalAtts": 442,
+    "volume": 0,
+    "sfxVolume": 77,
+    "levelsFileName": [
+        "level 1.json",
+        "level 2.json"
+    ]
+}
