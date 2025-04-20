@@ -1,11 +1,16 @@
-* Gomentrie Desh
--ripoff of gd
--made to be dumb
--funny
--custom made physics (trash)
--all in pygame!
+Gomentrie Desh  <br>
+-ripoff of gd   <br>
+-made to be dumb   <br>
+-funny   <br>
+-custom made physics (trash)   <br>
+-all in pygame!   <br>
+<br>
+<br>
+<br>
+<br>
 
-* Why play this shi?
+
+Why play this shi? <br>
 -     
 
 
